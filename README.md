@@ -1,7 +1,5 @@
 # Rift Derandomizer
 
-A mod for the game The Riftbreaker which removes gear stat randomization.
-
 Based on the *No Random Stats* mod which is unmaintained with input from the community to incorporate the behavior of the *Crit and Stun Weapon Mod Simplifier* mod.
 
 This repository is home to the mod itself and the python scripts which generate it.
