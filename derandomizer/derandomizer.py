@@ -12,6 +12,7 @@ input_subdir = '/derandomizer/game_data'
 output_subdir = '/derandomizer/mod_data'
 weapon_mods_file = '/scripts/blueprint_tables/weapon_mods.dat'
 weapon_stats_file = '/scripts/blueprint_tables/weapon_stats.dat'
+entity_mods_file = '/scripts/blueprint_tables/entity_mods.dat'
 
 # Modify the Weapon Mods
 weapon_mod_change_count = weapon_mods.modify(input_subdir,output_subdir,weapon_mods_file)
