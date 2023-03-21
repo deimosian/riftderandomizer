@@ -2,14 +2,20 @@
 
 # Rift Derandomizer
 
-I personally find grinding gear with randomly generated stats to be strage when crafting with *Space Magick TM*, unnecessary for a single player experience and especially slow, and tedious with the clicking required in the crafting and inventory interface.
+Do you find grinding gear with randomly generated stats to be...
 
-So to eliminate it from my gameplay by resurrecting the *No Random Stats* mod which is unmaintained. 
-With input from the Riftbreaker community I decided to also incorporate the behavior of the *Crit and Stun Weapon Mod Simplifier* mod.
+- Unnecessary for a single player experience and especially slow?
+- Tedious with the clicking required in the crafting and inventory interface?
+- Just strage when crafting with *Space Magick TM* that should have better quality control?
+
+If so then eliminate it from your gameplay entirely with this resurrection of the *No Random Stats* mod!
+
+With input from the Riftbreaker community it was decided to also incorporate the behavior of the *Crit and Stun Weapon Mod Simplifier* mod. 
+This avoids potential a conflict between the two mods. You need should only install one or the other.
 
 This repository is home to the mod itself plus the python scripts which generate it.
 
-Weapon Stats and Weapons Mods have been done. Entity Mods are ~~coming soon~~ **done!**.
+Weapon Stats and Weapons Mods have been done. Entity Mods are ~~coming soon~~ **done!**
 
 ## Fancy Installation
 
