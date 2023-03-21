@@ -1,3 +1,5 @@
+![Rift Derandomizer banner](https://github.com/deimosian/riftderandomizer/blob/main/derandomizer/mod_data/derandomizer.png?raw=true)
+
 # Rift Derandomizer
 
 I personally find grinding gear with randomly generated stats to be strage when crafting with *Space Magick TM*, unnecessary for a single player experience and especially slow, and tedious with the clicking required in the crafting and inventory interface.
