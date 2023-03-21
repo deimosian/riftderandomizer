@@ -13,14 +13,16 @@ If so then eliminate it from your gameplay entirely with this resurrection of th
 With input from the Riftbreaker community it was decided to also incorporate the behavior of the *Crit and Stun Weapon Mod Simplifier* mod. 
 This avoids potential a conflict between the two mods. You need should only install one or the other.
 
-This repository is home to the mod itself plus the python scripts which generate it.
-
 Weapon Stats and Weapons Mods have been done. Entity Mods are ~~coming soon~~ **done!**
+
+This repository is home to the mod itself plus the python scripts which generate it.
 
 ## Fancy Installation
 
 [Now available through mod.io!](https://mod.io/g/riftbreaker/m/rift-derandomizer)
 Install instantly via the in-game mod menu.
+
+Steam Workshop hopefully coming soon.
 
 ## Manual Installation
 
