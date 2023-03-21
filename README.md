@@ -6,7 +6,7 @@ Do you find grinding gear with randomly generated stats to be...
 
 - Unnecessary for a single player experience and especially slow?
 - Tedious with the clicking required in the crafting and inventory interface?
-- Just strage when crafting with *Space Magick TM* that should have better quality control?
+- Just strange when crafting with SpaceMagickTM that should have better quality control?
 
 If so then eliminate it from your gameplay entirely with this resurrection of the *No Random Stats* mod!
 
